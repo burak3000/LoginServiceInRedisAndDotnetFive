@@ -1,0 +1,10 @@
+{
+  "redisSettings": {
+    "redisConnectionString": "redis",
+    "authenticateFrontEndRequestsChannel": "authenticate_frontend_requests_channel",
+    "authenticateFrontEndResponsesChannel": "authenticate_frontend_responses_channel",
+    "authenticateBackEndRequestsChannel": "authenticate_backend_requests_channel",
+    "authenticateBackEndResponsesChannel": "authenticate_backend_responses_channel",
+    "createUserRequestsChannel": "create_user_requests_channel"
+  }
+}

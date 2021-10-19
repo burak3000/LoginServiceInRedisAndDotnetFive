@@ -1,0 +1,10 @@
+{
+  "profiles": {
+    "Login.BackendService": {
+      "commandName": "Project"
+    },
+    "Docker": {
+      "commandName": "Docker"
+    }
+  }
+}

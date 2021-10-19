@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "Login.FrontendService": {
+      "commandName": "Project",
+      "commandLineArgs": "-a"
+    }
+  }
+}
